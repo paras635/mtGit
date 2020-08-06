@@ -1,0 +1,27 @@
+
+   	A Human Study of Comprehension and Code Summarization
+
+
+An ACM conference was held in may 2020 in seoul, Korea by Sean Stapleten, Yashmeet Gamblir,
+Alexender Leclair, Zachary Emberhart, Westley weimer, Kevin Leach and Yu Huang.
+Since comments play blear role in  apprehension of programs. Developers find it more
+reliable in reading source code while making a software where multiple languages were 
+being used yet it has some disadvantage,like outdated, unwanted comments make source code more
+difficult for programmers.
+For the sake of ease for developers, researchers have developed some unique techniques to
+generate automatically summary comments for source code that involves heuritics and templates
+to generate comments that more like a natural language.
+For the methodoly purpose, they tend to see how the code summaries effect the developer productivity
+and by doing that they desiged IRB Approved Human Study involving 45 undergraduate and graduate 
+computer science students, and industrial software developers they were asked  to perform
+two tasks in an unbaptized online survey.
+First they were given methods written in java along with summaries and were asked to answer 
+given questions in Second task they were given incomplete java class with summaries and were
+asked to complete the method.
+Considering time taken and accuracy of answers it would be easy to design a model for developers
+where quality summaries would be used.
+Human written summaries prove to be more helpful for developers than machine generated 
+summaries, but developers cannot still decide which summaries are the most helpful source
+A well documented code is known to be beneficial for the  new and experienced developers.
+Thus metrics like BLUE and ROGUE were developed for generating automatic code summarization.
+

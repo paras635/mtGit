@@ -1,0 +1,38 @@
+
+
+	#How Graduate Computing Student Searches when using an programming langugae
+
+
+In october 5-6,2020 in seoul, korea, ACM ,New York, NY, USA, ICPC, International  conference
+on program comprehension was  held by Gina R.Bai, Joshua Kayani, and Kathryn T.stolee.
+Developers have to master in multiple language to write software code.
+Studies have shown you can learn a language prior to the language you have learnt, because
+when learning a new language, programmers look for the smiliar concepts relating to what
+they have learnt before, but the syntax differs that is what cause the difficulty in searching
+the code.
+developers often go to code search to find code examples, to learn and improve during 
+development activities. 
+The reason for this survey is to understand  how and why developers search while performing
+daily work. 
+To develop new search codes or improve in existing search codes recent studies have shown
+the code search  in difficult for ensuing language learners and code search during normal
+activities.
+In this survey our main target are students who has less experience, like when they go for 
+a job and are asked to do  the work they are completely unfamiliar with.
+This methodology involves, keeping an eye on search browsing activities and surveying about
+their current task  similiar to prior work.
+where we ask participants whether the search was successful or not. Prior human studies with
+code search were not indicated exactly what is successful method for code search because 
+code search does not work out well when it comes out to solving a large data.
+All these differences between experienced developers  and students shed light on how we may be
+able to  train subsequent language learners to use searching better in their workflow or build a 
+better search tool to facilate more successful search.
+we analyzed why participants search during programming their goals were to find specific goals
+libraries, classes/APIs, methods/functions.
+
+most of the participants said they search for the correct syntax during software development.
+we studied how graduate student search while solving programming tasks in a new language, 
+experienced developers implements their code using more feature and libraries, tutorials have been more 
+successful in searching code.
+Developers frequently borrows terms from familiar language for an unfamiliar language.
+Borrowing queries term have been more successful than typical query on average.
